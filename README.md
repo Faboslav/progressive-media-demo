@@ -1,1 +1,1 @@
-# progressive-media-demo
+Demo for [progressive media] library.

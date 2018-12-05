@@ -1,0 +1,7 @@
+iframe {
+    border: 0;
+}
+
+img, iframe {
+    background-color: #f5f5f5;
+}
